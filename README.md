@@ -1,2 +1,2 @@
 # Portfolio_Website
-This here is my sample portfolio webpage made using HTLM and CSS 
+This here is my sample portfolio webpage made using HTML and CSS 
